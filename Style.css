@@ -7,9 +7,7 @@
     }
 }
 
-div{
-    outline:1px solid lime
-}
+
 
 body{
     background-color: #EEE2DC;
@@ -51,7 +49,7 @@ body{
         background-color: #EEE2DC;
         max-width: 950px;
         height: 300px;
-        float: left;
+        float: left; 
     }
     
 .photo 1{
