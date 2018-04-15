@@ -5,7 +5,6 @@
     body{
         background-color: green;
     }
-}
 
 body{
     background-color: #EEE2DC;
@@ -30,6 +29,7 @@ body{
 
 }
 
+    }
 .links a{
     color: black;
     text-decoration: none;
@@ -46,3 +46,12 @@ body{
     float: left;
     color: #EDC7B7;
 }
+.form{
+    width: 400px;
+    height: 200px;
+    background-color: blanchedalmond;
+    margin-left: 20px; 
+    margin-top: 20px;
+    padding: 10px;
+    float:left;
+    }
